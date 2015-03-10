@@ -33,7 +33,7 @@ Now GO!
 * Solution 2a. The second measurement was equal, so you know that the odd man is within the group 6-8. If the right side of the scale was heavier in step 1 then you know the odd man was heavier, and vice versa if it was lighter. 
 	* Use the {{3 remaining with known weight solution}} from solution 1a. 
 
-* Solution 2b. The second measurement was unequal, but the balance of weight shifted. You know therefore that the odd man is within the group 2-4 (the 3 men moved from one scale to the other). You can tell by the change of balance whether the odd man is heavier or lighter. 
+* Solution 2b. The second measurement was unequal, but the balance of weight shifted. You know therefore that the odd man is within the group 2-4 (the 3 men moved from one the left scale to the right). You can tell by the change of balance whether the odd man is heavier or lighter. 
 	* Use the {{3 remaining with known weight solution}} from solution 1a. 
 
 * Solution 2c. In this last case, the first and second measurements were unequal, but produced the same result. Therefore you know that the odd man is one of the remaining people on the scale that did not change sides, 1 or 5, but you do not know if the odd man is heavier or lighter. 
