@@ -9,6 +9,8 @@ There are 12 men on an island. All of the men look identical, but one of them is
 
 Now GO!
 
+*** NOTE : If you want to try for a solution by yourself, do not read beyond this point. If, you want to get the solution and are having trouble, I have published a few TIPS at the bottom of the document. Happy problem solving. 
+
 ## Step 1 : 
 * Number the men from 1 to 12. Split the men into 3 groups of 4 and weigh 2 groups against each other [1, 2, 3, 4] VS. [5, 6, 7, 8]. 
 	1. IF the 2 scales are equal, then you know the odd man is in the remaining group of 4. Proceed to solution 1a. 
@@ -41,4 +43,11 @@ Now GO!
 
 
 
+=== === === === === === === === === === === === === === === === === === === === === === === === === === 
 
+# TIPS : 
+
+* The most people you can eliminate in the first step is 4, by dividing the 12 men into 3 groups of 4. 
+* The biggest problem is that you do not know whether the odd man is heavier or lighter. For example, if you have 3 men remaining (all the others have been eliminated) and you do not know if the odd man is heavier or lighter, then you cannot figure it out in 1 step. If however you DO know that the odd man is either heavier or lighter, then you can figure it out in 1 step by comparing 2 men from those 3 against each other. 
+* Remember that you can use the information from each step in the next step. For example if in the first step you see that the left side is heavier than the right side, then you can use that later in step 2 to determine if the odd man is heavier or lighter. 
+* SPOILER ALERT! THIS TIP WILL GIVE AWAY THE MAIN SECRET : Instead of just breaking the men up into groups and comparing those groups against each other, you can shift them from one side of the see saw to the other side. ie. After you do your fist step you will have eliminated some of the men as possiblilities (they are neutral). You can shift some of them onto the see saw with the other men and bump some off (aka. shift). Try that and see where it takes you. 
