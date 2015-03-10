@@ -5,7 +5,7 @@ This is the true solution from Captain Holt's brain teaser from Season 2 Episode
 ![Alt text](http://31.media.tumblr.com/cbacd818b46c49da33d64965591a7419/tumblr_mz2j20XaOA1r64iyzo3_250.gif)
 
 ## The problem : 
-There are 12 men on an island. All of the men look identical, but one of them is either heavier or lighter than all of the other men. There is also a see-saw on the island. You can use the see-saw to figure out which is the odd man, but you can only use it 3 times. 
+There are 12 men on an island. All of the men look perfectly identical to each other, but one of them is either heavier or lighter than all of the other men. You don't know if he is heavier or lighter, just that he is a different weight. There is also a see-saw on the island. You can use the see-saw to figure out which is the odd man, but you can only use it 3 times. 
 
 Now GO!
 
