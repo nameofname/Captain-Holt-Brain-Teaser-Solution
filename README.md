@@ -1,6 +1,6 @@
 # Captain Holt's Brain Teaser Solution: 
 
-This is the true solution from Captain Holt's brain teaser from Season 2 Episode 18 of Brooklyn 99 : "Captain Peralta." Before you read on, I just want to say that this problem drove me absolutely crazy! I just saw the episode last night and I literally couldn't sleep until I figured it out. I was lying there going through possibilities until 3 am when it hit me, and I got up and wrote down the solution. I later went back and refined it a little, so here it is. Hope you all sleep well after reading this. 
+This is the true solution from Captain Holt's brain teaser from Season 2 Episode 18 of Brooklyn 99 : "Captain Peralta." Before you read on, I just want to say that this problem drove me nuts. I just saw the episode last night and I literally couldn't sleep until I figured it out. I was lying there going through possibilities until 3 am when it hit me, and I got up and wrote down the solution. I later went back and refined it a little, so here it is. Hope you all sleep well after reading this. 
 
 ![Alt text](http://31.media.tumblr.com/cbacd818b46c49da33d64965591a7419/tumblr_mz2j20XaOA1r64iyzo3_250.gif)
 
