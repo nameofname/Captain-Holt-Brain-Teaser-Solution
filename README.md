@@ -11,14 +11,14 @@ Now GO!
 
 ## Step 1 : 
 * Number the men from 1 to 12. Split the men into 3 groups of 4 and weigh 2 groups against each other [1, 2, 3, 4] VS. [5, 6, 7, 8]. 
-	1. IF the 2 scales are equal, then you know the odd man is in the remaining group of 3. Proceed to solution 1a. 
+	1. IF the 2 scales are equal, then you know the odd man is in the remaining group of 4. Proceed to solution 1a. 
 	2. IF the 2 scales are unequal, then you know the odd man is in the set of 1-8. Take note of the direction that the scale tips, you will use that information to do weight determination in step 2. Proceed to step 2. 
 
 ## Step 2 : 
 * Shift all of the men 3 positions to the right and weigh them again using men from the 3rd group (which you know to all be neutral) to fill in the missing positions on the left scale. [10, 11, 12, 1] VS. [2, 3, 4, 5]. 
 	1. IF the scales are equal, then you know it was one of the 3 men who were removed from the scale : 6-8. Use the weight difference from step 1 to determine heavier lighter. Proceed to solution 2a. 
-	2. IF the scales are unequal, but the balance of weight changes (ie. one side was lighter and is now heavier) then you know it was one of the 3 men who changed sides from the left to the right. Use the weight info from step 1 to determine lighter / heavier. 
-	3. IF the scales are still unequal but remain the same, then you know it was 1 of the 2 men who did not change sides, 1 or 5. You cannot determine lighter, heavier, proceed to solution 2c. 
+	2. IF the scales are unequal, but the balance of weight changes (ie. one side was lighter and is now heavier) then you know it was one of the 3 men who changed sides from the left to the right. Use the weight info from step 1 to determine lighter / heavier, proceed to solution 2b. 
+	3. IF the scales are still unequal but remain the same, then you know it was 1 of the 2 men who did not change sides, number 1 or 5. You cannot determine lighter, heavier, proceed to solution 2c. 
 
 ## Solutions : 
 * Solution 1a. The first measurement of 4 vs. 4 was equal. The odd man is in the group is in 9-12. You don't know if he is heavier or lighter, and there is a 2 step solution to this : 
